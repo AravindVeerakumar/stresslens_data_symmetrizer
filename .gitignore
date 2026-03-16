@@ -1,0 +1,13 @@
+# Temporary files
+~$*
+*.tmp
+
+# Data directories (optional, remove if you want to push data)
+Input/
+output/
+
+# IDE files
+.vscode/
+.idea/
+__pycache__/
+*.pyc
